@@ -74,7 +74,7 @@ Colab: [**MobileNetV3 FR**]()
 
 ## 1. Extension : Image Downloader
 
-Télécharger pour Chrome [**Image Downloader**] (https://chrome.google.com/webstore/detail/image-downloader/kdbfjpagopjjaiofmgodphiklmjhcnok?hl=fr)
+Télécharger pour Chrome [**Image Downloader**](https://chrome.google.com/webstore/detail/image-downloader/kdbfjpagopjjaiofmgodphiklmjhcnok?hl=fr)
 
 <img align="right" src="/img/LogoIMGDL.jpg" width=450>
 
