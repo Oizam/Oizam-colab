@@ -77,7 +77,7 @@ Colab: [**MobileNetV3 FR**]()
 
 <img align="right" src="/img/LogoIMGDL.jpg" width=250>
 
-Télécharger pour Chrome [**Image Downloader**](https://chrome.google.com/webstore/detail/image-downloader/kdbfjpagopjjaiofmgodphiklmjhcnok?hl=fr)
+Télécharger pour Chrome : [**Image Downloader**](https://chrome.google.com/webstore/detail/image-downloader/kdbfjpagopjjaiofmgodphiklmjhcnok?hl=fr)
 
 
 ## 2. Fonctions pour gestion de la data
