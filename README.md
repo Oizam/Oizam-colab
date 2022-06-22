@@ -24,6 +24,16 @@
 
 ## 1. Choix du dataset
 
+Dataset choisi [**Caltech Birds 2011**](https://www.tensorflow.org/datasets/catalog/caltech_birds2011)
+contenant 200 espèces et 11788 images avec leurs bounding boxes (pour un futur travail sur la détection)
+
+Il peut s'implémenter directement depuis tensorflow_datasets
+
+Mais pour la data augmentation, nous pouvons aussi utiliser le jeu de données complet [**Ici**](https://data.caltech.edu/records/20098)
+
+
+Data Augmentation faite à l'aide d'un deuxième jeu de données [**Kaggle - 400 species**](https://www.kaggle.com/datasets/gpiosenka/100-bird-species)
+
 <img align="right" src="/img/image.png" width=450>
 
 ## 2. Modèle le plus performant (Xception)
@@ -36,13 +46,18 @@ En savoir plus sur le modèle [**Keras - Xception**](https://keras.io/api/applic
 
 Colab: [**MobileNetV3Large US**]()
 
+En savoir plus sur le modèle [**Keras - MobileNetV3Large**](https://keras.io/api/applications/mobilenet/#mobilenetv3large-function)
+
 <br clear="right"/>
 
 ***
 
 # B. CLASSIFICATION DES OISEAUX FRANCAIS <a id="ClassImgFR"></a>
 
-## 1. Choix du dataset
+## 1. Création du dataset
+
+Oiseaux.net
+Google images
 
 ## 2. Modèle le plus performant (Xception)
 
@@ -58,12 +73,26 @@ Colab: [**MobileNetV3 FR**]()
 
 # C. DATA AUGMENTATION <a id="DataAug"></a>
 
-## Extension : Image Downloader
+## 1. Extension : Image Downloader
 
-## Fonctions pour gestion de la data
+Télécharger pour Chrome [**Image Downloader**] (https://chrome.google.com/webstore/detail/image-downloader/kdbfjpagopjjaiofmgodphiklmjhcnok?hl=fr)
+
+<img align="right" src="/img/LogoIMGDL.jpg" width=450>
+
+## 2. Fonctions pour gestion de la data
+
+### Déplacer des images d'un dataset vers un autre (avec noms de dossiers identiques)
+
+### Convertir tous les formats d'images du dataset en .jpg
+
+### Changer les noms des dossiers/classes d'un dataset (en y ajoutant un numéro/index)
+
+### Renommer toutes les images des dossiers/classes d'un dataset en fonction de leur nom de dossier
+
+
 
 <br clear="right"/>
 
 ***
 
-<img align="right" src="/img/image.png" width=450>
+
