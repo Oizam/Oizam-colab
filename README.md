@@ -55,8 +55,9 @@ En savoir plus sur le modèle [**Keras - MobileNetV3Large**](https://keras.io/ap
 
 ## 1. Création du dataset
 
-Oiseaux.net
-Google images
+<img align="right" src="/img/oiseauxnet.png" width=450>
+
+Ne trouvant pas de dataset d'oiseaux français, nous avons été crontraints de le faire nous-même, notamment à l'aide de photos prises sur [**Oiseaux.net**](https://www.oiseaux.net/) et y en ajoutant d'autres provenant de Google Images et d'autres sites.
 
 ## 2. Modèle le plus performant (Xception)
 
