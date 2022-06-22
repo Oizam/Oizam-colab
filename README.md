@@ -9,6 +9,10 @@
 ```
   
 # MODELES DE MACHINE LEARNING
+  
+ (https://placehold.it/150/ffffff/ff0000?text=hello)
+  
+ - ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=ok) `#1589F0`
 
 </div>
 
