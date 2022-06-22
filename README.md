@@ -24,6 +24,8 @@
 
 ## 1. Choix du dataset
 
+<img align="right" src="/img/caltech.jpeg" width=450>
+
 Dataset choisi : [**Caltech Birds 2011**](https://www.tensorflow.org/datasets/catalog/caltech_birds2011)
 contenant 200 espèces et 11788 images avec leurs bounding boxes (pour un futur travail sur la détection).
 
@@ -32,8 +34,6 @@ Il peut s'implémenter directement depuis tensorflow_datasets.
 Mais pour la data augmentation, nous pouvons aussi utiliser le jeu de données complet : [**Ici**](https://data.caltech.edu/records/20098)
 
 Une data augmentation a été faite à l'aide d'un deuxième jeu de données [**Kaggle - 400 species**](https://www.kaggle.com/datasets/gpiosenka/100-bird-species), ainsi qu'une augmentation manuelle (explication dans la partie [Data Augmentation](#DataAug))
-
-<img align="right" src="/img/caltech.jpeg" width=450>
 
 ## 2. Modèle le plus performant (Xception)
 
@@ -74,9 +74,10 @@ Colab: [**MobileNetV3 FR**]()
 
 ## 1. Extension : Image Downloader
 
+<img align="right" src="/img/LogoIMGDL.jpg" width=250>
+
 Télécharger pour Chrome [**Image Downloader**](https://chrome.google.com/webstore/detail/image-downloader/kdbfjpagopjjaiofmgodphiklmjhcnok?hl=fr)
 
-<img align="right" src="/img/LogoIMGDL.jpg" width=450>
 
 ## 2. Fonctions pour gestion de la data
 
