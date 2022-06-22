@@ -80,13 +80,13 @@ Télécharger pour Chrome [**Image Downloader**](https://chrome.google.com/webst
 
 ## 2. Fonctions pour gestion de la data
 
-- * Déplacer des images d'un dataset vers un autre (avec noms de dossiers identiques)
+- Déplacer des images d'un dataset vers un autre (avec noms de dossiers identiques)
 
-### Convertir tous les formats d'images du dataset en .jpg
+- Convertir tous les formats d'images du dataset en .jpg
 
-### Changer les noms des dossiers/classes d'un dataset (en y ajoutant un numéro/index)
+- Changer les noms des dossiers/classes d'un dataset (en y ajoutant un numéro/index)
 
-### Renommer toutes les images des dossiers/classes d'un dataset en fonction de leur nom de dossier
+- Renommer toutes les images des dossiers/classes d'un dataset en fonction de leur nom de dossier
 
 
 
